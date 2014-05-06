@@ -1,0 +1,27 @@
+
+
+\section{GTFS based}
+
+\begin{enumerate}
+
+\item load GTFS data into a networkx graph.  This includes connecting bus lines via transfer stations and a transfer_penalty_time.  each node is 'line, stop, time', each edge is dt.
+
+\item choose a start (or destination), determine walking time to k-nearest stops, use networkx to find the j-shortest paths to the destination (or starting point)
+
+\item display resulting grid points (plus interpolated points) either as color coded symbols or after interpolating to a surface and making a contour map
+
+
+\end{enumerate}
+
+\section{Improvements}
+
+\subsection{graph_tool}
+this will be faster than networkx and more flexible.  The idea will be to build and serialize the whole graph.  this can then be masked for particular purposes.  Individual journey classes will handle one to one, one to many, and many to one journeys.  add_one_trip will have to be modified
+
+\subsection{data store}
+currently using csv files converted to numpy structured arrays.  could switch to sql or redis or something
+
+\subsection{walks}
+instead of calculating great_circle distances to radom points, use pyproj for more accurate distances.
+
+additionally, use open street maps to: (a) snap random points to nearest street and (b) calculate walk times along actual roads ;)
