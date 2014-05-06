@@ -1,0 +1,37 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+03-89,03,"Mission / Beach",,3,http://scmtd.com/routes/schedules/systemschedule/03
+04-89,04,"Harvey West / Emeline",,3,http://scmtd.com/routes/schedules/systemschedule/04
+04W-89,04W,"Harvey West",,3,http://scmtd.com/routes/schedules/systemschedule/04W
+06-89,06,"Broadway/Frederick",,3,http://scmtd.com/routes/schedules/systemschedule/06
+08-89,08,"Emeline",,3,http://scmtd.com/routes/schedules/systemschedule/08
+10-89,10,"UCSC Via High",,3,http://scmtd.com/routes/schedules/systemschedule/10
+12-89,12,"UCSC / East Side Direct",,3,http://scmtd.com/routes/schedules/systemschedule/12
+15-89,15,"UCSC via Laurel West",,3,http://scmtd.com/routes/schedules/systemschedule/15
+16-89,16,"UCSC via Laurel East",,3,http://scmtd.com/routes/schedules/systemschedule/16
+17-89,17,"Amtrak Highway 17 Express",,3,http://scmtd.com/routes/schedules/systemschedule/17
+19-89,19,"UCSC via Lower Bay",,3,http://scmtd.com/routes/schedules/systemschedule/19
+20-89,20,"UCSC via Westside",,3,http://scmtd.com/routes/schedules/systemschedule/20
+20D-89,20D,"UCSC via Delaware",,3,http://scmtd.com/routes/schedules/systemschedule/20D
+30-89,30,"Graham Hill / Scotts Valley",,3,http://scmtd.com/routes/schedules/systemschedule/30
+33-89,33,"Lompico SLV / Felton Faire",,3,http://scmtd.com/routes/schedules/systemschedule/33
+34-89,34,"South Felton",,3,http://scmtd.com/routes/schedules/systemschedule/34
+35-89,35,"San Lorenzo Valley (SLV)",,3,http://scmtd.com/routes/schedules/systemschedule/35
+35A-89,35,"SLV via Scotts Valley Drive",,3,http://scmtd.com/routes/schedules/systemschedule/35
+40-89,40,"Davenport / North Coast Beaches",,3,http://scmtd.com/routes/schedules/systemschedule/40
+41-89,41,"Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/41
+42-89,42,"Davenport / Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/42
+54-89,54,"Capitola / Aptos / La Selva Beach",,3,http://scmtd.com/routes/schedules/systemschedule/54
+55-89,55,"Rio Del Mar",,3,http://scmtd.com/routes/schedules/systemschedule/55
+56-89,56,"La Selva",,3,http://scmtd.com/routes/schedules/systemschedule/56
+66-89,66,"Live Oak via 17th",,3,http://scmtd.com/routes/schedules/systemschedule/66
+66N-89,66N," Live Oak via 17th - Night",,3,http://scmtd.com/routes/schedules/systemschedule/66N
+68-89,68,"Live Oak via Broadway / Portola",,3,http://scmtd.com/routes/schedules/systemschedule/68
+69A-89,69,"Capitola Rd. / Watsonville via Airport Blvd.",,3,http://scmtd.com/routes/schedules/systemschedule/69
+69W-89,69,"Capitola Rd. / Cabrillo / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/69
+71-89,71,"Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/71
+72-89,72,"Corralitos",,3,http://scmtd.com/routes/schedules/systemschedule/72
+74-89,74,"Ohlone Parkway / Rolling Hills",,3,http://scmtd.com/routes/schedules/systemschedule/74
+75-89,75,"Green Valley",,3,http://scmtd.com/routes/schedules/systemschedule/75
+77-89,77,"Civic Plaza / Pajaro",,3,http://scmtd.com/routes/schedules/systemschedule/77
+79-89,79,"East Lake",,3,http://scmtd.com/routes/schedules/systemschedule/79
+91X-89,91X,"Commuter Express Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/91X
